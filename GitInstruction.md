@@ -20,6 +20,9 @@ git config --global user.name "Tara Routray"
 git config --global user.email "dev@tararoutray.com"
 ```
 
+
+
+
 ## Создание и базовая работа с локальным репозиторием.
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
