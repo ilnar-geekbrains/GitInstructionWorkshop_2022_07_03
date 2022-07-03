@@ -12,6 +12,10 @@
 
 ### Установка git на ваш ПК
 
+* Установка GIT на Linux по [ссылке](https://git-scm.com/download/linux/ "GIT")
+* Установка GIT на Mac по [ссылке](https://git-scm.com/download/mac/ "GIT")
+* Установка GIT на Windows по [ссылке](https://git-scm.com/download/win/ "GIT")
+
 #### Первая настройка git
 
 ## Создание и базовая работа с локальным репозиторием.
