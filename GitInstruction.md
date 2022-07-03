@@ -14,6 +14,9 @@
 
 #### Первая настройка git
 
+$ git config --global user.name "John Doe"
+$ git config --global user.email_johndoe@example.com
+
 ## Создание и базовая работа с локальным репозиторием.
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
