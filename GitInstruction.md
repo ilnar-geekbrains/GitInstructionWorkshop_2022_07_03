@@ -41,3 +41,8 @@
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+
+Subversion
+Perforce
+Team Foundation Version Control
+Mercurial
