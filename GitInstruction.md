@@ -12,7 +12,32 @@
 
 ### Установка git на ваш ПК
 
-#### Первая настройка git
+## Создание и базовая работа с локальным репозиторием.
+
+ ### Basic commands
+
+-   **git init** to initializing the local repository and tracking its files (you will have to enter _git add_ for start tracking each new file)
+-   1. **Warning! Save the file.**
+-   2. **git add** to add a new commit
+-   3. **git commit -m "_comment_"** to create a new commit with massage of it
+-   **git commit -am "_comment_"** to add changes and create a new commit with massage of it
+-   **git add .** for adding all files (git_space_dot)
+-   **git commit --amend -m "_new commit_"** to edit commit
+-   **git checkout commit_hash** commit_hash
+-   **git checkout master** return to the master commit
+
+> ### Some useful commands
+
+-   **git diff** to find out the difference between the current file and the committed file
+-   **git log** to display the history of all commits with their hash codes
+
+*   **git log --graph** to display a tree of commits
+
+-   **git status** to get information from git about its current state
+-   **git --version** to get information from git about its current version
+
+### Что такое репозиторий и инструкция по созданию локальных репозиториев.
+
 
 ## Создание и базовая работа с локальным репозиторием.
 
