@@ -32,6 +32,22 @@
 
 ### Базовая работа с удаленными репозиториями GitHub
 
+start work with githab 
+
+*after registration*
+git clone http:/...... - copy to your computer from github
+cd name_of_folder - go to folder  
+
+*send modified to githab*  
+gitremote add origin http:/...... - send changes to this address
+git branch -M main - make the main branch the main 
+
+*after the first connection with githab*
+git push - upload changes to github
+git pull - copy changes from github and merge (if no errors)
+
+
+
 ## Совместная работа над проектом (fork, pull request)
 
 ### Как строится и для чего нужна совместная работа в системах контроля версий
