@@ -12,6 +12,17 @@
 
 ### Установка git на ваш ПК
 
+Установка Git для Windows, MAC, Linux: https://git-scm.com/downloads
+
+При первом использовании Git необходимо представиться. 
+Для этого нужно ввести в терминале 2 команды:
+
+* **git config --global user.name «Ваше имя английскими буквами»**
+* **git config --global user.email ваша почта@example.com**
+
+## Установка Git на ОС Windows
+[![](https://img.youtube.com/vi/GsG5roSGha0/0.jpg)](https://www.youtube.com/watch?v=GsG5roSGha0)
+
 #### Первая настройка git
 
 ## Создание и базовая работа с локальным репозиторием.
