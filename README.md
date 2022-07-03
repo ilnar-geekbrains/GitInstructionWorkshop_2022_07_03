@@ -15,3 +15,7 @@
 12. Инструкция по созданию pull request
 13. Книги и полезные ссылки по изучению git.
 14. Альтернативные системы контроля версий.
+* Subversion
+* Perforce
+* Team Foundation Version Control
+* Mercurial
