@@ -13,8 +13,7 @@
 ### Установка git на ваш ПК
 Загружаем последнюю версию Git с офф. сайта:
 
-[скачать Git](https://git-scm.com/downloads)
-![Git-Logo-2Color.png](Git-Logo-2Color.png)
+[![Git-Logo-2Color.png](Git-Logo-2Color.png)](https://git-scm.com/downloads)
 
 Устанавливаем с настройками по умолчанию.
 
