@@ -66,3 +66,5 @@
 [тренажер для git](https://learngitbranching.js.org/)
 
 ## Альтернативные системы контроля версий.
+
+Коммит в ветке new_branch
