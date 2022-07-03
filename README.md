@@ -15,4 +15,5 @@
 13. Книги и полезные ссылки по изучению git.
 
 Cсылка https://tproger.ru/translations/10-free-resources-to-learn-git/?ysclid=l558iixjlt831786385 
+
 14. Альтернативные системы контроля версий.
