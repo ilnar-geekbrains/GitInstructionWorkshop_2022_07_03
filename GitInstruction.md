@@ -46,5 +46,9 @@
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
+> [Статья с GB](https://gb.ru/posts/soveti-pro-git)
+
+> [Тренажер по git](https://learngitbranching.js.org/?locale=ru_RU)
+>
 
 ## Альтернативные системы контроля версий.
