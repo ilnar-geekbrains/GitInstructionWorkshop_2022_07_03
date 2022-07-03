@@ -63,4 +63,6 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+[Тренажер для git]https://learngitbranching.js.org/index.html?locale=ru_RU
+
 ## Альтернативные системы контроля версий.
