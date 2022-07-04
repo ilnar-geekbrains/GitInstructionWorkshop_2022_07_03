@@ -73,6 +73,7 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+[Ссылка на Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 ## Альтернативные системы контроля версий.
 
 коммит в ветке new_branch
