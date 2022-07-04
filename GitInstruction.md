@@ -10,9 +10,20 @@
 
 ### Установка VSCode на ваш ПК.
 
+➤Установка VSCode для Windows, MAC, Linux: https://code.visualstudio.com/Download
+
+
+
 ### Установка git на ваш ПК
 
+➤Установка Git для Windows, MAC, Linux: https://git-scm.com/downloads
+
+
 #### Первая настройка git
+
+При первом использовании Git необходимо представиться.  Для этого нужно ввести в терминале 2 команды:
+git config --global user.name «Ваше имя английскими буквами»  git config --global user.email ваша почта@example.com
+
 
 ## Создание и базовая работа с локальным репозиторием.
 
