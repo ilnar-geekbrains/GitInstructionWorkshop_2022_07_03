@@ -62,5 +62,16 @@
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
+Книги по Git:
+* Git Magic (Ben Lynn)
+* PRO Git
+
+Ссылки:
+
+[Тренажер по Git](https://learngitbranching.js.org) 
+
+[Учебник по Git](https://git-scm.com/book/ru/v2)
+
+[Советы про Git](https://gb.ru/posts/soveti-pro-git)
 
 ## Альтернативные системы контроля версий.
