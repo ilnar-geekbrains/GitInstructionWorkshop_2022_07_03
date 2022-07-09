@@ -65,3 +65,6 @@
 {ссылка на тренажер}(https://learngitbranching.js.org/?locale=ru_RU)
 
 ## Альтернативные системы контроля версий.
+
+
+Коммит в ветке new_branch
