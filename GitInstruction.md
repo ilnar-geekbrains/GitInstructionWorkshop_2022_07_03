@@ -55,6 +55,9 @@
 4. To delete a branch type *git branch -d <branchname>*
 
 * Current branch is marked with green
+* All commits made in a particular branch are visible only inside that branch
+* All previous commits made before branch creation are visible in that branch
+
 
 ## Работа с удаленными репозиториями.
 
