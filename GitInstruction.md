@@ -49,6 +49,13 @@
 
 ### Базовая работа с ветками в git.
 
+1. To see available braches type *git branch*
+2. To create a branch type *git branch <branchname>*
+3. To switch between branches type *git checkout <branchname>*
+4. To delete a branch type *git branch -d <branchname>*
+
+* Current branch is marked with green
+
 ## Работа с удаленными репозиториями.
 
 ### Что такое удаленный репозиторий и для чего он нужен
