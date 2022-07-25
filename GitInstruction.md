@@ -51,6 +51,29 @@
 
 ## Работа с удаленными репозиториями.
 
+**GitHub — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки. Веб-сервис основан на системе контроля версий Git и разработан на Ruby on Rails и Erlang компанией GitHub, Inc.**
+
+[GitHub: Where the world builds software](https://github.com/)
+
+Для того чтобы работать с репозиторием размещённым на github необходимо:
+
+- найти необходимый репозиторий
+- скопировать его HTTPS
+- go to VSC terminal
+- new command **git clone + copied HTTPS**
+
+Для перехода из одного репозитория в другой в VSC используется комманда **cd + repository name** cd means change directory
+
+Send my repository to hub:
+
+- create hub account
+- create repository in hub
+- unite local repository with remote repository (hub)
+
+Перенос from local to hub **git push**
+
+Перенос from hub to local **git pull**
+
 ### Что такое удаленный репозиторий и для чего он нужен
 
 ### Базовая работа с удаленными репозиториями GitHub
